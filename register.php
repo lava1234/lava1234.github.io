@@ -60,7 +60,7 @@
 							Already have an account?
 						</span>
 
-						<a href="index.html" class="txt2 hov1">
+						<a href="index.php" class="txt2 hov1">
 							Sign in
 						</a>
 					</div>
